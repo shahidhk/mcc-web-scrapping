@@ -23,10 +23,6 @@ def lookup(driver):
     counter = 0
     total = len(links)
     for link in links:
-        driver.find_element_by_xpath("""//*[@id="ctl00_ContentPlaceHolder1_Medical"]/div/span[2]""").click()
-        driver.find_element_by_xpath("""//*[@id="ctl00_ContentPlaceHolder1_Medical"]/div/span[2]""").click()
-        driver.find_element_by_xpath("""//*[@id="ctl00_ContentPlaceHolder1_Medical"]/div/span[2]""").click()
-        driver.find_element_by_xpath("""//*[@id="ctl00_ContentPlaceHolder1_Medical"]/div/span[2]""").click()
         counter+=1
         print "Procession link ", counter, " of ", total, "..." 
         print "Opening ", link.get_attribute('href')
