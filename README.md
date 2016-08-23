@@ -1,5 +1,6 @@
 # AIPMT 2016 / NEET 2016 Participating Institutions List
-Please find the list here: [NEET Colleges](http://shahidhk.github.io/mcc-web-scrapping/NEET-Colleges.csv)
+Please find the list here: [NEET Colleges](http://shahidhk.github.io/mcc-web-scrapping/NEET-Colleges.csv)   
+Download link: [NEET Colleges Download CSV](https://github.com/shahidhk/mcc-web-scrapping/raw/master/NEET-Colleges.csv)
 
 # mcc-web-scrapping
 Web scrapping NEET AIQ participating colleges list from Medical Counseling Commettee (MCC) website
